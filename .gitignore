@@ -5,6 +5,7 @@
 \.idea
 \.project
 \.vagrant
+\.vscode
 bower_components
 node_modules
 npm-debug\.log*
